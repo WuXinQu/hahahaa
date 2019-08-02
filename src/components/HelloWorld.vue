@@ -17,6 +17,6 @@ export default {
 
 <style scoped>
 	.test{
-		background:red
+		background:green
 	}
 </style>
